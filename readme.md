@@ -1,5 +1,8 @@
 # learn about git and github
 - *learn is good*
-''' javascript
+
+
+``` javascript
 console.log('hello world');
-'''
+
+```
